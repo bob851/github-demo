@@ -11,8 +11,12 @@ def subtract(x,y):
 
 #Multiply implementation
 def multiply(x,y):
-    return x*y
+    pass
 	
 #Diivde implementation
 def divide(x,y):
     return x/y
+	
+#Square implementation
+def square(x):
+     return x*x
